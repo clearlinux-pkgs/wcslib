@@ -1,0 +1,50 @@
+Configure miss: cosd in -lsunmath
+Configure miss: printf$LDBLStub in -lSystemStubs
+Configure miss: /usr/local/cfitsio/lib
+Configure miss: /local/cfitsio/lib
+Configure miss: /usr/local/pgplot/lib
+Configure miss: /local/pgplot/lib
+Configure miss: /usr/local/lib
+Configure miss: /local/lib
+Configure miss: /opt/local/lib
+Configure miss: /opt/SUNWspro/lib
+Configure miss: /sw/lib
+Configure miss: /usr/local/cfitsio/include/cfitsio/fitsio.h
+Configure miss: /usr/local/cfitsio/include/fitsio.h
+Configure miss: /local/cfitsio/include/cfitsio/fitsio.h
+Configure miss: /local/cfitsio/include/fitsio.h
+Configure miss: /usr/local/include/cfitsio/fitsio.h
+Configure miss: /usr/local/include/fitsio.h
+Configure miss: /local/include/cfitsio/fitsio.h
+Configure miss: /local/include/fitsio.h
+Configure miss: /opt/local/include/cfitsio/fitsio.h
+Configure miss: /opt/local/include/fitsio.h
+Configure miss: /sw/include/cfitsio/fitsio.h
+Configure miss: /sw/include/fitsio.h
+Configure miss: /local/cfitsio/fitsio.h
+Configure miss: /local/fitsio.h
+Configure miss: /usr/include/cfitsio/fitsio.h
+Configure miss: recv in -lsocket
+Configure miss: /usr/local/pgplot/include/pgplot/cpgplot.h
+Configure miss: /usr/local/pgplot/include/cpgplot.h
+Configure miss: /local/pgplot/include/pgplot/cpgplot.h
+Configure miss: /local/pgplot/include/cpgplot.h
+Configure miss: /usr/local/include/pgplot/cpgplot.h
+Configure miss: /usr/local/include/cpgplot.h
+Configure miss: /local/include/pgplot/cpgplot.h
+Configure miss: /local/include/cpgplot.h
+Configure miss: /opt/local/include/pgplot/cpgplot.h
+Configure miss: /opt/local/include/cpgplot.h
+Configure miss: /sw/include/pgplot/cpgplot.h
+Configure miss: /sw/include/cpgplot.h
+Configure miss: /local/pgplot/cpgplot.h
+Configure miss: /local/cpgplot.h
+Configure miss: /usr/include/pgplot/cpgplot.h
+Configure miss: /usr/include/cpgplot.h
+Configure miss: iand_ in -lM77
+Configure miss: f77_init in -lF77
+Configure miss: main in -lfrtbegin
+Configure miss: gerror_ in -lg2c
+Configure miss: png_error in -lpng
+Configure miss: pgbeg_ in -lpgplot
+Configure miss: cpgbeg in -lcpgplot

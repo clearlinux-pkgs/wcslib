@@ -1,0 +1,5 @@
+5.19.1
+flex
+gfortran
+pkgconfig(x11)
+zlib-dev
