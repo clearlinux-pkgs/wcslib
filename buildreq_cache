@@ -1,4 +1,4 @@
-7.1
+7.2
 flex
 gfortran
 pkgconfig(x11)
