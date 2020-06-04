@@ -218,6 +218,9 @@ libwcs.so.7:hpxset_
 libwcs.so.7:hpxx2s
 libwcs.so.7:hpxx2s_
 libwcs.so.7:keyget_
+libwcs.so.7:keygtc_
+libwcs.so.7:keygtd_
+libwcs.so.7:keygti_
 libwcs.so.7:keyidget_
 libwcs.so.7:keyidgtc_
 libwcs.so.7:keyidgti_
