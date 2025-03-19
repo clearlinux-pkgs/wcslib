@@ -4,7 +4,7 @@
 #
 Name     : wcslib
 Version  : 7.4
-Release  : 14
+Release  : 15
 URL      : ftp://ftp.atnf.csiro.au/pub/software/wcslib/wcslib-7.4.tar.bz2
 Source0  : ftp://ftp.atnf.csiro.au/pub/software/wcslib/wcslib-7.4.tar.bz2
 Summary  : An implementation of the FITS World Coordinate System standard
